@@ -11,13 +11,13 @@
         "icon_promote": "https://lh3.googleusercontent.com/6RStqfmaBrEcODBiD6AgHoyjjwOp8YexH9wLSMSyaQIcBdRIUbZUUIDqp8MVyvLKoA=s180-rw",
         "judul_promote": "Block Puzzle 2020",
         "deskripsi_promote": "Stay at home and play Block Puzzle 2020",
-        "gambar_promote": "https://1.bp.blogspot.com/-Won3DI8Jx4M/Xpru5tiLjcI/AAAAAAAAAMs/OaklApNT1-AYhiRBsSeQLHY1WZC3oQmdgCLcBGAsYHQ/s1600/promote.png",
+        "gambar_promote": "https://1.bp.blogspot.com/-524OvhGPXCA/XqGnsowyR3I/AAAAAAAAANA/gYRBU6GO598OcGWgSu6vHuyaWfScJ2OMACLcBGAsYHQ/s900/promote.png",
         "link_promote": "https://play.google.com/store/apps/details?id=game.colors.blockpuzzle",
-        "status_promote": "0",
+        "status_promote": "1",
         
         "interval": 3,
         "inter_splash":"0",
-        "pengaturan_iklan":"0",
+        "pengaturan_iklan":"1",
         
         "fan_inter":"981545408591412_999151030164183",
         "fan_banner_native":"981545408591412_2709037092508893",
