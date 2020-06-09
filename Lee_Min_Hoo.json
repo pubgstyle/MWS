@@ -8,11 +8,11 @@
         "interid": "ca-app-pub-7492894468740102/2051900737",
         "nativeid": "ca-app-pub-7492894468740102/1556802981",
         
-        "icon_promote": "https://lh3.googleusercontent.com/6RStqfmaBrEcODBiD6AgHoyjjwOp8YexH9wLSMSyaQIcBdRIUbZUUIDqp8MVyvLKoA=s180-rw",
-        "judul_promote": "Block Puzzle 2020",
-        "deskripsi_promote": "Stay at home and play Block Puzzle 2020",
-        "gambar_promote": "https://1.bp.blogspot.com/-524OvhGPXCA/XqGnsowyR3I/AAAAAAAAANA/gYRBU6GO598OcGWgSu6vHuyaWfScJ2OMACLcBGAsYHQ/s900/promote.png",
-        "link_promote": "https://play.google.com/store/apps/details?id=game.colors.blockpuzzle",
+        "icon_promote": "https://lh3.googleusercontent.com/mKCAGTPZ-iiztNT5X1c_QUMGllO2YbVl6cVmtnnhW8ysL1SGiSQVP5tMgFir-kXFuto=s180-rw",
+        "judul_promote": "Diamond Block Puzzle 2020",
+        "deskripsi_promote": "Download Diamond Block Puzzle new 2020",
+        "gambar_promote": "https://1.bp.blogspot.com/-uxTeZntsFE8/Xt-SI-y1uzI/AAAAAAAAANs/sEWWS-tro2sZXZIfjyWMfZo_lmBooA47QCLcBGAsYHQ/s640/ads.png",
+        "link_promote": "https://play.google.com/store/apps/details?id=game.arslgm.blockpuzzle",
         "status_promote": "1",
         
         "interval": 3,
@@ -38,7 +38,12 @@
 
 	"More":
 	[	
-	
+		{
+    "id":1,
+    "judul":"",
+    "image":"https://lh3.googleusercontent.com/mKCAGTPZ-iiztNT5X1c_QUMGllO2YbVl6cVmtnnhW8ysL1SGiSQVP5tMgFir-kXFuto=s180-rw",
+    "link":"https://play.google.com/store/apps/details?id=game.arslgm.blockpuzzle"
+	},
 		{
     "id":1,
     "judul":"",
